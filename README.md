@@ -74,8 +74,21 @@ Ahora vamos a seguir el ejemplo que nos sale en la pagina para añadir este .md:
 
 ![git3](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git3.png)
 
-Primero voy a crear localmente una carpeta (Working) y voy a añadir este archivo y su correspondiente carpeta de imagenes:
+Primero voy a crear localmente una carpeta (Working) y voy a añadir este archivo y su correspondiente carpeta de imagenes y añadimos los archivos:
 
+![git4](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git4.png)
+
+Ahora vamos hacer el commit: 
+
+![git5](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git5.png)
+
+Enlazamos a nuestro github:
+
+![git6](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git6.png)
+
+Tras esto solo quedaría hacer un push teniendo que poner nuestras credenciales:
+
+![git7](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git7.png)
 
 ### Biografías
 
