@@ -103,6 +103,13 @@ Como vemos al hacer el ```git status``` nos ignora el archivo:
 
 ![git10](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git10.png)
 
+Ahora vamos a crear una *branch* (rama) en la cual podremos modificar todo lo que queramos sin tener que usar la *Master* (Proyecto principal) para luego en un futuro fusionarlas y si el resultado nos gusta.
+Para ello vamos usar ```git branch <nombre de la rama>``` con la que la creamos y luego usaremos ```git checkout <nombre de la rama>´´´ para posicionarnos en ella:
+
+![git11](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git11.png)
+
+![git11](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git11.png)
+
 ### Biografías
 
 Para la sintasis de [Markdown](https://markdown.es/sintaxis-markdown/)
