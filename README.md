@@ -90,6 +90,10 @@ Tras esto solo quedaría hacer un push teniendo que poner nuestras credenciales:
 
 ![git7](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git7.png)
 
+Esta seria mis lista del commit:
+
+![git8](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git8.png)
+
 ### Biografías
 
 Para la sintasis de [Markdown](https://markdown.es/sintaxis-markdown/)
