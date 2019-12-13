@@ -11,7 +11,8 @@ Version 1.01
 
 Comandos para inicializar el git en esa carpeta:
 
-    git init ./test/escenario1 
+    git init ./test/escenario1 <- Direccion de nuestra carpeta
+
 Comando para saber el estado en el que se encuentra nuestros archivos antes de hacer el commit:
 
     git status
@@ -93,6 +94,14 @@ Tras esto solo quedaría hacer un push teniendo que poner nuestras credenciales:
 Esta seria mis lista del commit:
 
 ![git8](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git8.png)
+
+A continuacion voy a crear un archivo el cual voy hacer que git lo ignorar:
+
+![git9](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git9.png)
+
+Como vemos al hacer el ```git status``` nos ignora el archivo:
+
+![git10](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git10.png)
 
 ### Biografías
 
