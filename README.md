@@ -91,11 +91,11 @@ Tras esto solo quedaría hacer un push teniendo que poner nuestras credenciales:
 
 ![git7](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git7.png)
 
-Esta seria mis lista del commit:
+Esta sería mi lista de los commit que he hecho hasta ahora:
 
 ![git8](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git8.png)
 
-A continuacion voy a crear un archivo el cual voy hacer que git lo ignorar:
+A continuación voy a crear un archivo el cual voy hacer que git lo ignore:
 
 ![git9](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git9.png)
 
