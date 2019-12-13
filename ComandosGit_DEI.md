@@ -1,6 +1,10 @@
 
 
 
+
+
+Version 1.01
+
 <h1 align='center'> HOLA GIT </h1>
 
 ### *Comandos git*
@@ -66,6 +70,11 @@ Despues rellenamos la siguiente ventana con el nombre del archivo y su descripci
 
 ![git2](.\Imagenes\git2.png)
 
+Ahora vamos a seguir el ejemplo que nos sale en la pagina para añadir este .md:
+
+![git3](\Imagenes\git3.png)
+
+Primero voy a crear localmente una carpeta (Working) y voy a añadir este archivo y su correspondiente carpeta de imagenes:
 
 
 ### Biografías
