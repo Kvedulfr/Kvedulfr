@@ -64,15 +64,15 @@ Primero vamos a crear un repositorio en [github][linkg], para ello hay que crear
 
 [linkg]: https://github.com/
 
-![git1](.\Imagenes\git1.png)
+![git1](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git1.png)
 
 Despues rellenamos la siguiente ventana con el nombre del archivo y su descripcion:
 
-![git2](.\Imagenes\git2.png)
+![git2](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git2.png)
 
 Ahora vamos a seguir el ejemplo que nos sale en la pagina para añadir este .md:
 
-![git3](\Imagenes\git3.png)
+![git3](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git3.png)
 
 Primero voy a crear localmente una carpeta (Working) y voy a añadir este archivo y su correspondiente carpeta de imagenes:
 
