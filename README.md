@@ -3,7 +3,7 @@
 
 
 
-Version 1.01 ~~ version 1.02
+Version 1.02
 
 <h1 align='center'> HOLA GIT </h1>
 
@@ -131,6 +131,10 @@ Ahora vamos a añadir un colaborador al repositorio:
 Ahora vamos a crear en la rama un archivo 2.txt y vamos a hacerle un `commit`
 
 ![git17](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git17.png)
+
+Ahora nos iriamos a la rama Master y hariamos un `git merge test` para aplicar los cambios de nuestra rama a la original:
+
+![git18](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git18.png)
 
 
 
