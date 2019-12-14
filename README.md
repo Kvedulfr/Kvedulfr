@@ -138,19 +138,32 @@ Ahora nos iriamos a la rama Master y hariamos un `git merge test` para aplicar l
 
 Yo he ido trabajando y subiendo desde la rama Master hasta este punto jamas he modificado la rama asi pero he tenido la suerte de que no me ha saltado ningun conflicto ya que no he modificado en ningun momento una linea coincidente del README.md de master y README.md pero ahora vamos a provocarlo, para ello he creado otra rama `git branc test2` y he modificado la primera linea con ADIOS del archivo 2.txt en *test2* y luego he ido a *Master* y he escrito HOLA en la primera linea haciendo los respectivos `git add .` y `git commit` en cada una y ahora realizo el `git merge test2`:
 
-[git19](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git19.png)
+![git19](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git19.png)
 
 Vemos que nos sale un conflicto en el archivo 2.txt como esperabamos, asi que para solucionarlo solo tendriamos que ir al archivo en cual has sido modificado:
 
-[git20](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git20.png)
+![git20](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git20.png)
 
 Como vemos nos sale HEAD Y TEST2  con la diferencias entre el archivo asi que lo que tenemos que hacer que borrar dichas lineas y dejar el mesaje que mas interese (en este caso da igual) y al realizar de nuevo el merge nos saldra el siguiente mensaje:
 
-[err2](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/err2.png)
+![err2](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/err2.png)
 
 Simplemente lo que nos indica es que tenemos que hacer un `git add .` y `git commit` antes de hacerlo:
 
-[git21](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git21.png)
+![git21](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git21.png)
+
+Para finalizar vamos a crear una organización, pinchamos sobre nuestro perfil y le damos a setting y buscamos organization:
+
+![git22](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git22.png)
+
+Simplemente le damos a crear y vamos rellenando los datos:
+
+![git23](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git23.png)
+
+
+Completandonos y llevandonos a nuestro directorio de la organizción:
+
+![git24](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git24.png)
 
 
 <h1 align=center>Repositorios de compañeros</h1>
