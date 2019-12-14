@@ -128,6 +128,12 @@ Ahora vamos a añadir un colaborador al repositorio:
 
 ![git16](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git16.png)
 
+Ahora vamos a crear en la rama un archivo 2.txt y vamos a hacerle un `commit`
+
+![git17](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git17.png)
+
+
+
 <h1 align=center>Repositorios de compañeros</h1>
 
 NOMBRE | ENLACE
