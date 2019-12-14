@@ -108,6 +108,40 @@ Para ello vamos usar ```git branch <nombre de la rama>``` con la que la creamos 
 
 ![git11](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git11.png)
 
+Vamos a crear una etiqueta o ```tag``` para ello vamos hacerlo desde GitHub dande a la pestaña *release* dentro de nuestro repositorio:
+
+![git12](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git12.png)
+
+Depués pulsamos en tag (*Paso 1*) y luego en Create new a Release (*Paso 2*):
+
+![git13](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git13.png)
+
+Ahora el la siguiente pagina podremos añadir el titulo de nuestra etiqueta ademas a que rama se lo quieres colocar y añadir una descripción y abajo del todo podremos indicar si es *Pre-Release* es decir para indicar que todavia no esta acabado :
+
+![git14](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git14.png)
+
+Tras esto podremos ver todos las etiquetas creadas:
+
+![git15](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git15.png)
+
+Ahora vamos a añadir un colaborador al repositorio:
+
+![git16](https://github.com/Kvedulfr/Kvedulfr/blob/master/Imagenes/git16.png)
+
+<h1 align=center>Repositorios de compañeros</h1>
+
+NOMBRE | ENLACE
+--|--
+RAFA | [Repository Rafa][rafa]
+JOSÉ | [Repository Jose][jose]
+CHECA | [Repository Checa][checa]
+MIRIAM | [Repository Miriam][miriam]
+
+[rafa]: https://github.com/RuFFuS4/campusciff
+[checa]: https://github.com/nitreer/campusciff
+[jose]: https://github.com/campusciff-Vivinh0
+[miriam]: https://github.com/MIRIAM-GIT/campusciff
+
 
 
 ### Biografías
